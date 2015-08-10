@@ -1,0 +1,727 @@
+{
+    "places":[
+              {
+              "name":"Florence Moore (Flomo)",
+              "imageName":"Florence Moore",
+              "latitude":37.4222,
+              "longitude":-122.1717
+              },
+              {
+              "name":"Suites - Avanti",
+              "imageName":"Suites - Avanti",
+              "latitude":37.424546,
+              "longitude":-122.180721
+              },
+              {
+              "name":"Ricker",
+              "imageName":"Ricker",
+              "latitude":37.426083,
+              "longitude":-122.177233
+              },
+              {
+              "name":"Arrillaga",
+              "imageName":"Arrillaga",
+              "latitude":37.425428,
+              "longitude":-122.164091
+              },
+              {
+              "name":"Stern",
+              "imageName":"Stern",
+              "latitude":37.424746,
+              "longitude":-122.165560
+              },
+              {
+              "name":"Wilbur",
+              "imageName":"Wilbur",
+              "latitude":37.424292,
+              "longitude":-122.162328
+              },
+              {
+              "name":"Manzanita",
+              "imageName":"Manzanita",
+              "latitude":37.424065,
+              "longitude":-122.159573
+              },
+              {
+              "name":"Lagunita",
+              "imageName":"Lagunita",
+              "latitude":37.425444,
+              "longitude":-122.176126
+              }
+              ],
+    "meals":[
+             {
+             "time":0,
+             "day": 0,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 0,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time": 0,
+             "day": 0,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 0,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 1,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 1,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 2,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 2,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 3,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 3,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 4,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 4,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 5,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 5,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":1,
+             "day": 6,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Suites - Avanti"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Florence Moore (Flomo)"
+             },
+             {
+             "time": 1,
+             "day": 6,
+             "food": "Pizza",
+             "place": "Florence Moore (Flomo)"
+             },
+             {
+             "time":0,
+             "day": 0,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 0,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time": 0,
+             "day": 0,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time": 1,
+             "day": 0,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 1,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Flank Steak and Broccoli",
+             "place":"Stern"
+             },
+             {
+             "time": 1,
+             "day": 1,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 2,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Flank Steak and Broccoli",
+             "place":"Stern"
+             },
+             {
+             "time": 1,
+             "day": 2,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 3,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Flank Steak and Broccoli",
+             "place":"Stern"
+             },
+             {
+             "time": 1,
+             "day": 3,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 4,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Flank Steak and Broccoli",
+             "place":"Stern"
+             },
+             {
+             "time": 1,
+             "day": 4,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 5,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Flank Steak and Broccoli",
+             "place":"Stern"
+             },
+             {
+             "time": 1,
+             "day": 5,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":1,
+             "day": 6,
+             "food":"Flank Steak and Broccoli",
+             "place":"Wilbur"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Flank Steak and Broccoli",
+             "place":"Stern"
+             },
+             {
+             "time": 1,
+             "day": 6,
+             "food": "Herb Crusted Lamb",
+             "place": "Stern"
+             },
+             {
+             "time":0,
+             "day": 0,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 0,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time": 0,
+             "day": 0,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 0,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 1,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 1,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 2,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 2,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 3,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 3,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 4,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 4,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 5,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 5,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":1,
+             "day": 6,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Arrillaga"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Grilled Chicken Sandwiches",
+             "place":"Manzanita"
+             },
+             {
+             "time": 1,
+             "day": 6,
+             "food": "Pizza",
+             "place": "Manzanita"
+             },
+             {
+             "time":0,
+             "day": 0,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 0,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time": 0,
+             "day": 0,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 0,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 1,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":0,
+             "day": 1,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 1,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 2,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":0,
+             "day": 2,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 2,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 3,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":0,
+             "day": 3,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 3,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 4,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":0,
+             "day": 4,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 4,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 5,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":0,
+             "day": 5,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 5,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":1,
+             "day": 6,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Ricker"
+             },
+             {
+             "time":0,
+             "day": 6,
+             "food":"Buttered Lobster with Asparagus",
+             "place":"Lagunita"
+             },
+             {
+             "time": 1,
+             "day": 6,
+             "food": "Orange Chicken with Chow Mein",
+             "place": "Lagunita"
+             }
+
+             ]
+}
