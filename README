@@ -1,0 +1,15 @@
+user: diveesh (Singh, Diveesh)
+
+iOS Features
+
+Story board structured with UITabBarController, UINavigation controllers inside each tab
+UITableViewController with deletable cells
+Custom UITableViewCells
+CoreData (feature not taught in class). Object relational model
+UILocalNotification
+View.traitCollection.sizeClass to display different view based on orientation
+Using drawRect to draw a custom View with UIButtons
+UIAlertView to improve quality of notifications
+MKMapView and MKAnnotationView to display maps
+NavigationBarButtonItem added programmatically
+Modally presenting a view controller with UIDatePicker
